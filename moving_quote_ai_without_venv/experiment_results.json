@@ -1,0 +1,12 @@
+{
+    "total_photos_tested": 1,
+    "successful_extractions": 1,
+    "success_rate_percentage": 100.0,
+    "results": [
+        {
+            "filename": "19199.jpg",
+            "status": "success",
+            "gemini_output": "```json\n{\n  \"items\": [\n    {\n      \"name\": \"Bed\",\n      \"dimensions\": {\n        \"length\": 200.0,\n        \"width\": 100.0,\n        \"height\": 70.0\n      },\n      \"volume_m3\": 1.40\n    },\n    {\n      \"name\": \"Nightstand\",\n      \"dimensions\": {\n        \"length\": 50.0,\n        \"width\": 50.0,\n        \"height\": 60.0\n      },\n      \"volume_m3\": 0.15\n    },\n    {\n      \"name\": \"Chair\",\n      \"dimensions\": {\n        \"length\": 55.0,\n        \"width\": 55.0,\n        \"height\": 80.0\n      },\n      \"volume_m3\": 0.24\n    }\n  ],\n  \"total_volume_m3\": 1.79\n}\n```"
+        }
+    ]
+}

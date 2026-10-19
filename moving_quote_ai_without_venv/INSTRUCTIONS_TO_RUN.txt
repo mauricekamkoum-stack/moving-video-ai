@@ -1,0 +1,16 @@
+1. There is no venv folder here so you need to install it inside this big folder by using in your VS code terminal:
+pip install google-genai pillow
+
+You should have a big folder (this one) with:
+- test photos folder
+- venv folder
+- experiment.py
+- experiment_results.json
+
+2. You then need to get an API key from the google aistudio and set it inside your terminal in VS code:
+$env:GEMINI_API_KEY="your_actual_api_key_here"
+
+3. Then to run it, in your VS code terminal run:
+python experiment.py
+
+The results will be displayed in json result file and also in the terminal.
