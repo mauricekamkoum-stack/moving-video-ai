@@ -1,0 +1,114 @@
+{
+    "total_photos_tested": 3,
+    "grand_total_volume_m3": 5.76,
+    "results": [
+        {
+            "filename": "19199.jpg",
+            "status": "success",
+            "extracted_data": {
+                "items": [
+                    {
+                        "name": "bed",
+                        "dimensions_cm": {
+                            "length": 200,
+                            "width": 100,
+                            "height": 60
+                        },
+                        "volume_m3": 1.2
+                    },
+                    {
+                        "name": "nightstand",
+                        "dimensions_cm": {
+                            "length": 45,
+                            "width": 45,
+                            "height": 55
+                        },
+                        "volume_m3": 0.11
+                    },
+                    {
+                        "name": "chair",
+                        "dimensions_cm": {
+                            "length": 55,
+                            "width": 55,
+                            "height": 80
+                        },
+                        "volume_m3": 0.24
+                    }
+                ],
+                "photo_total_volume_m3": 1.55
+            }
+        },
+        {
+            "filename": "19208.jpg",
+            "status": "success",
+            "extracted_data": {
+                "items": [
+                    {
+                        "name": "bed",
+                        "dimensions_cm": {
+                            "length": 200,
+                            "width": 100,
+                            "height": 80
+                        },
+                        "volume_m3": 1.6
+                    },
+                    {
+                        "name": "wardrobe",
+                        "dimensions_cm": {
+                            "length": 100,
+                            "width": 60,
+                            "height": 200
+                        },
+                        "volume_m3": 1.2
+                    },
+                    {
+                        "name": "suitcase",
+                        "dimensions_cm": {
+                            "length": 50,
+                            "width": 30,
+                            "height": 70
+                        },
+                        "volume_m3": 0.11
+                    },
+                    {
+                        "name": "suitcase",
+                        "dimensions_cm": {
+                            "length": 50,
+                            "width": 30,
+                            "height": 70
+                        },
+                        "volume_m3": 0.11
+                    }
+                ],
+                "photo_total_volume_m3": 3.02
+            }
+        },
+        {
+            "filename": "19209.jpg",
+            "status": "success",
+            "extracted_data": {
+                "items": [
+                    {
+                        "name": "desk",
+                        "dimensions_cm": {
+                            "length": 160,
+                            "width": 80,
+                            "height": 75
+                        },
+                        "volume_m3": 0.96
+                    },
+                    {
+                        "name": "chair",
+                        "dimensions_cm": {
+                            "length": 55,
+                            "width": 55,
+                            "height": 75
+                        },
+                        "volume_m3": 0.23
+                    }
+                ],
+                "photo_total_volume_m3": 1.19
+            }
+        }
+    ]
+}
